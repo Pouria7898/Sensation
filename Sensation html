@@ -33,9 +33,9 @@
   <div class="pdf-container">
     <!-- 
       The URL parameter "#toolbar=0" is used in many browsers to hide the default PDF toolbar.
-      Replace "yourfile.pdf" with the actual name of your PDF file.
+      Replace "Sensation Drink Menu-Final-EXPAND.pdf" with the actual name of your PDF file.
     -->
-    <iframe src="yourfile.pdf#toolbar=0"></iframe>
+    <iframe src="Sensation Drink Menu-Final-EXPAND.pdf#toolbar=0"></iframe>
   </div>
 </body>
 </html>
